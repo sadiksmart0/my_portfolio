@@ -10,7 +10,7 @@
 * Airflow to schedule data ingestion and prediction jobs.
 * Used Grafana to monitor model and MLFlow for retraining
 
-![](https://github.com/sadiksmart0/my_portfolio/blob/main/videos/Fairly-used.mp4)
+https://github.com/sadiksmart0/my_portfolio/blob/main/videos/Fairly-used.mp4
 
 #Project 2: Music Emotion Recognition and Recommendatation.
 
