@@ -1,7 +1,7 @@
-### WELCOME TO MY PORTFOLIO
+# WELCOME TO MY PORTFOLIO
 #DATA SCIENCE PROJECTS SECTION
 
-#PROJECT 1:  FAIRLY USED CAR PREDICTION PLATFORM OVERVIEW
+#PROJECT 1:  [FAIRLY USED CAR PREDICTION PLATFORM OVERVIEW](https://github.com/sadiksmart0/Used-Car-ML)
 
 * Created a price estimation model for fairly used car using Linear Regression.
 * Developed a web platform Using Streamlit and deployed the model as a service.
@@ -10,7 +10,7 @@
 * Airflow to schedule data ingestion and prediction jobs.
 * Used Grafana to monitor model and MLFlow for retraining
 
-
+https://github.com/sadiksmart0/my_portfolio/blob/main/videos/Fairly-used.mp4
 
 #Project 2: Music Emotion Recognition and Recommendatation.
 
