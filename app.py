@@ -7,7 +7,7 @@ from PIL import Image
 st.title(' _Welcome to my Projects Portfolio_ ')
 
 with st.sidebar:
-    image = Image.open("C:/Users/A.M. MUKTAR/my_portfolio/Images/IMG-20220413-WA0005.jpg")
+    image = Image.open("/Images/IMG-20220413-WA0005.jpg")
     st.image(image)
     st.subheader("Interest")
     st.markdown("""
@@ -55,7 +55,7 @@ with st.expander("PROJECT 2: Music Emotion Recognition and Recommendatation."):
     """)
 
     st.markdown("[Project CODE](https://github.com/anthonybassaf/music-mood-recognition)")
-    video_file = open('C:/Users/A.M. MUKTAR/my_portfolio/videos/music-mood.mp4', 'rb')
+    video_file = open('videos/music-mood.mp4', 'rb')
     video_bytes = video_file.read()
     st.video(video_bytes)
 
@@ -70,7 +70,7 @@ with st.expander("PROJECT 3: Brain Tumor Segmentation"):
     """)
 
     st.markdown("[Project CODE](https://github.com/sadiksmart0/Image-seg)")
-    video_file = open('C:/Users/A.M. MUKTAR/my_portfolio/videos/Fairly-used.mp4', 'rb')
+    video_file = open('videos/Fairly-used.mp4', 'rb')
     video_bytes = video_file.read()
     st.video(video_bytes)
 
@@ -86,7 +86,7 @@ with st.expander("PROJECT 4: Movie Recommendatation system."):
     """)
      
     st.markdown("[Project CODE](https://github.com/sadiksmart0/Movie-Recommender)")
-    video_file = open('C:/Users/A.M. MUKTAR/my_portfolio/videos/movie-recommender.mp4', 'rb')
+    video_file = open('videos/movie-recommender.mp4', 'rb')
     video_bytes = video_file.read()
     st.video(video_bytes)
 
